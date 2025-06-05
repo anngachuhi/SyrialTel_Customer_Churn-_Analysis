@@ -120,4 +120,5 @@ This project successfully developed a churn prediction model with strong perform
 
 1. Clone this repository:
    ```bash
+   https://github.com/anngachuhi/SyrialTel_Customer_Churn-_Analysis
    
